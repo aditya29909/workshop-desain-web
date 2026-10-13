@@ -1,0 +1,18 @@
+.container {
+   display: flex;
+   flex-direction: row;
+    background-color: #ddd;
+    padding: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+
+}
+
+.item {
+    width: 150px;
+    background-color: lightblue;
+    border: 2px solid navy;
+    padding: 20px;
+}
+
